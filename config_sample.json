@@ -1,0 +1,9 @@
+{
+    "package_name": "requests",
+    "repository_url": "https://github.com/psf/requests",
+    "test_repo_mode": "remote",
+    "output_image": "requests_dependencies.png",
+    "ascii_tree_output": true,
+    "max_depth": 2,
+    "filter_substring": "http"
+  }
