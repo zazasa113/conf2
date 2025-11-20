@@ -1,0 +1,9 @@
+{
+    "package_name": "A",
+    "repository_url": "test_cycle.json", 
+    "test_repo_mode": "local",
+    "output_image": "graph_cycle.png",
+    "ascii_tree_output": true,
+    "max_depth": 5,
+    "filter_substring": ""
+}

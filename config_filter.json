@@ -1,0 +1,9 @@
+{
+    "package_name": "APP",
+    "repository_url": "test_complex.json",
+    "test_repo_mode": "local", 
+    "output_image": "graph_filter.png",
+    "ascii_tree_output": true,
+    "max_depth": 3,
+    "filter_substring": "STYLES"
+}

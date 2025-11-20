@@ -1,0 +1,39 @@
+{
+  "APP": [
+    "UI",
+    "UTILS",
+    "NETWORK"
+  ],
+  "UI": [
+    "COMPONENTS",
+    "STYLES"
+  ],
+  "UTILS": [
+    "HELPERS",
+    "VALIDATORS"
+  ],
+  "NETWORK": [
+    "HTTP",
+    "WEBSOCKET"
+  ],
+  "COMPONENTS": [
+    "BUTTON",
+    "INPUT"
+  ],
+  "STYLES": [
+    "COLORS"
+  ],
+  "HELPERS": [
+    "STRING_UTILS"
+  ],
+  "VALIDATORS": [
+    "EMAIL_VALIDATOR"
+  ],
+  "HTTP": [],
+  "WEBSOCKET": [],
+  "BUTTON": [],
+  "INPUT": [],
+  "COLORS": [],
+  "STRING_UTILS": [],
+  "EMAIL_VALIDATOR": []
+}
