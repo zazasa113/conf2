@@ -1,0 +1,10 @@
+{
+    "package_name": "MAIN",
+    "repository_url": "test_isolated.json", 
+    "test_repo_mode": "local",
+    "output_image": "graph_isolated.png",
+    "ascii_tree_output": true,
+    "max_depth": 3,
+    "filter_substring": "",
+    "reverse_deps_target": "INDEPENDENT"
+}

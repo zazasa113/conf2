@@ -1,0 +1,10 @@
+{
+    "package_name": "A",
+    "repository_url": "test_reverse.json",
+    "test_repo_mode": "local",
+    "output_image": "graph_reverse.png",
+    "ascii_tree_output": true,
+    "max_depth": 4,
+    "filter_substring": "",
+    "reverse_deps_target": "D"
+}

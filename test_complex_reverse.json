@@ -1,0 +1,38 @@
+{
+  "WEB_APP": [
+    "FRONTEND",
+    "BACKEND"
+  ],
+  "FRONTEND": [
+    "REACT",
+    "REDUX"
+  ],
+  "BACKEND": [
+    "EXPRESS",
+    "DATABASE"
+  ],
+  "REACT": [
+    "HOOKS",
+    "STATE"
+  ],
+  "REDUX": [
+    "STATE",
+    "MIDDLEWARE"
+  ],
+  "EXPRESS": [
+    "MIDDLEWARE",
+    "ROUTING"
+  ],
+  "DATABASE": [
+    "MONGO",
+    "VALIDATION"
+  ],
+  "HOOKS": [
+    "STATE"
+  ],
+  "STATE": [],
+  "MIDDLEWARE": [],
+  "ROUTING": [],
+  "MONGO": [],
+  "VALIDATION": []
+}

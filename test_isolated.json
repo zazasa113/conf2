@@ -1,0 +1,22 @@
+{
+  "MAIN": [
+    "UTILS",
+    "NETWORK"
+  ],
+  "UTILS": [
+    "LOGGER",
+    "VALIDATOR"
+  ],
+  "NETWORK": [
+    "HTTP",
+    "WEBSOCKET"
+  ],
+  "LOGGER": [],
+  "VALIDATOR": [],
+  "HTTP": [],
+  "WEBSOCKET": [],
+  "STANDALONE": [
+    "INDEPENDENT"
+  ],
+  "INDEPENDENT": []
+}
